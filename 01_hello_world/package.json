@@ -1,0 +1,15 @@
+{
+  "name": "hello-electron",
+  "version": "1.0.0",
+  "description": "Electron hello world app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "lint": "jshint *.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.2",
+    "jshint": "^2.9.5"
+  }
+}
